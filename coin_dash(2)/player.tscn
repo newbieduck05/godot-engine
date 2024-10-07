@@ -74,8 +74,8 @@ size = Vector2(19.25, 23.5)
 [node name="Player" type="Area2D"]
 scale = Vector2(2, 2)
 script = ExtResource("1_ultvq")
-metadata/_edit_group_ = true
 metadata/_edit_lock_ = true
+metadata/_edit_group_ = true
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_7llbi")
